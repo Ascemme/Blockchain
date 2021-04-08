@@ -1,6 +1,0 @@
-{
-    "from": "some one",
-    "to": " me",
-    "amount": "50",
-    "hash": ""
-}
